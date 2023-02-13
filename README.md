@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more advanced techniques of OOP and Python dataclasses.
 - 💞️ I’m looking to collaborate on anything smart home related or Django related.
 - 📫 Hit me up: anthony@rishu.dev
-
+- https://rishu.dev
 
 <!---
 AnthonyLorraine/AnthonyLorraine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
